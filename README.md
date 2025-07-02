@@ -2,18 +2,18 @@
 
 A real-time object classifier using your webcam, TensorFlow’s MobileNetV2, and OpenCV.
 
-![Python](https://img.shields.io/badge/python-3.10+-red.svg)
+![Python](https://img.shields.io/badge/python-3.10+-white.svg)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
 ## 🚀 How to Run
 
-1. **Clone the repo:**
+1.Clone the repo
 
    
    
-2.Create a virtual environment:
+2.Create a virtual environment
    
 
 3.Install the requirements
