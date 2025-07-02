@@ -2,7 +2,7 @@
 
 A real-time object classifier using your webcam, TensorFlow’s MobileNetV2, and OpenCV.
 
-![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![Python](https://img.shields.io/badge/python-3.10+-red.svg)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
@@ -11,19 +11,16 @@ A real-time object classifier using your webcam, TensorFlow’s MobileNetV2, and
 
 1. **Clone the repo:**
 
-   ```bash
-   git clone https://github.com/darpan-NITS/ML-based-Object-classifier-Project.git
-   cd ML-based-Object-classifier-Project
+   
    
 2.Create a virtual environment:
-   python -m venv venv
-   venv\Scripts\activate  # Windows
+   
 
-3.Install the requirements:
-  pip install -r requirements.txt
+3.Install the requirements
+  
 
-4.Run the app:
-  python main.py
+4.Run the app
+
 
 
 🧠 Tech Stack-
